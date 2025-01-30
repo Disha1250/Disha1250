@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects: </h2>
 
 - <b>Small Projects</b>
-  - [Tip Calculator Using basic HTML,CSS & JS](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Tip Calculator Using Basic HTML, CSS & JS](https://github.com/joshmadakor1/Algorithms-Practice)
     
 - <b>Big Projects</b>
   - [Netflix Page](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
